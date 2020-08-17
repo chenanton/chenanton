@@ -1,4 +1,4 @@
-### Hey there! I'm Anton. Feel free to look around! 
+### Hey there! I'm Anton. Glad you're here!
 
 <!--
 **azychen/azychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +24,5 @@ Want to know more? Here's how to reach me:
 - [LinkedIn](https://www.linkedin.com/in/antonzchen/ "/in/antonzchen")
 - [Email](mailto:contact@antonchen.ca "contact@antonchen.ca")
 
-Thanks for stopping by! 👋
+Thanks for stopping by! Feel free to look around. 👇
 
