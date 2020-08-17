@@ -1,4 +1,4 @@
-### Hey there! I'm Anton. Feel free to look around! 👋
+### Hey there! I'm Anton. Feel free to look around! 
 
 <!--
 **azychen/azychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring computer scientist from Calgary, Alberta. My technical interests pertain to the use of machine learning to master tricky concepts and to solve real-world issues.
+I'm a second year student at the University of British Columbia, studying Computer Science and Mathematics. My main interests relate to using machine learning to extrapolate conclusions from data, and apply such knowledge to solve real-world issues. A few of the projects I'm working on at the moment include an [AI-based Rubik's Cube solver](https://github.com/azychen/rubiks-cube-solver "rubiks-cube-solver") and an [issue tracker](https://github.com/azychen/issue-tracker "issue-tracker"). In the past, I've worked on a [two-dimensional virtual physics sandbox](https://github.com/azychen/ball-pit "ball-pit").
 
-In my free time I enjoy long-distance running, weight training, and playing the piano or trumpet.
+Want to know more? Here's how to reach me: 
+- [Personal Website](https://antonchen.ca "antonchen.ca")
+- [LinkedIn](https://www.linkedin.com/in/antonzchen/ "/in/antonzchen")
+- [Email](mailto:contact@antonchen.ca "contact@antonchen.ca")
 
-I currently attend the University of British Columbia, and am pursuing a combined degree in Computer Science and Mathematics.
+Thanks for stopping by! 👋
 
-Want to know more? Contact me!
