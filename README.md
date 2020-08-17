@@ -1,4 +1,4 @@
-### Hey there! I'm Anton. Glad you're here!
+### What's good, I'm Anton. Glad you're here!
 
 <!--
 **azychen/azychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
