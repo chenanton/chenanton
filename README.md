@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Anton. Feel free to look around! 👋
 
 <!--
 **azychen/azychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring computer scientist from Calgary, Alberta. My technical interests pertain to the use of machine learning to master tricky concepts and to solve real-world issues.
+
+In my free time I enjoy long-distance running, weight training, and playing the piano or trumpet.
+
+I currently attend the University of British Columbia, and am pursuing a combined degree in Computer Science and Mathematics.
+
+Want to know more? Contact me!
