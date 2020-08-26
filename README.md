@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a second year student at the University of British Columbia, studying Computer Science and Mathematics. At the moment, a project I'm working on is an [project issue tracker](https://github.com/azychen/issue-tracker "issue-tracker"). In the past, I've worked on a [two-dimensional virtual physics sandbox](https://github.com/azychen/virtual-ball-pit "virtual-ball-pit") and an [AI-based Rubik's Cube solver](https://github.com/azychen/ai-rubiks-cube-solver "ai-rubiks-cube-solver").
+I'm a second year student at the University of British Columbia, studying Computer Science and Mathematics. At the moment, I'm working on an [project issue tracker](https://github.com/azychen/issue-tracker "issue-tracker"). In the past, I've worked on a [two-dimensional virtual physics sandbox](https://github.com/azychen/virtual-ball-pit "virtual-ball-pit") and an [AI-based Rubik's Cube solver](https://github.com/azychen/ai-rubiks-cube-solver "ai-rubiks-cube-solver").
 
 Want to know more? Here's how to reach me: 
 - [Personal Website](https://antonchen.ca "antonchen.ca")
