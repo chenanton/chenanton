@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a second year student at the University of British Columbia, studying Computer Science and Statistics. In the past, I've worked on a [two-dimensional virtual physics sandbox](https://github.com/azychen/virtual-ball-pit "virtual-ball-pit") and an [AI-based Rubik's Cube solver](https://github.com/azychen/ai-rubiks-cube-solver "ai-rubiks-cube-solver").
+I'm a third year student at the University of British Columbia, studying Computer Science and Statistics. In the past, I've worked on a [two-dimensional virtual physics sandbox](https://github.com/azychen/virtual-ball-pit "virtual-ball-pit") and an [AI-based Rubik's Cube solver](https://github.com/azychen/ai-rubiks-cube-solver "ai-rubiks-cube-solver").
 
 Want to know more? Here's how to reach me: 
 - [Personal Website](https://antonchen.ca "antonchen.ca")
