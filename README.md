@@ -19,7 +19,7 @@ I'm a third year student at the University of British Columbia, studying Compute
 
 Want to know more? Here's how to reach me: 
 - [Personal Website](https://antonchen.ca "antonchen.ca")
-- [LinkedIn](https://www.linkedin.com/in/antonzchen/ "/in/antonzchen")
+- [LinkedIn](https://www.linkedin.com/in/chenanton/ "/in/chenanton")
 - [Email](mailto:contact@antonchen.ca "contact@antonchen.ca")
 
 Thanks for stopping by! Feel free to look around. 👇
